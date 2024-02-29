@@ -1,2 +1,4 @@
-# CSCI3251_YuanjueLi
-This is the project of Li Yuanjue.
+CSCI3251_YuanjueLi
+Hello, I'm Li Yuanjue!
+My Student number is 1155174030!
+
